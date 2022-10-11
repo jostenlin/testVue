@@ -1,6 +1,6 @@
 <template>
   <div class="row">
-    <div class="col-md-12">
+    <div class="col-md-12 p-0">
       <nav class="navbar navbar-expand-lg navbar-dark bg-info">
           <div class="container-fluid">
           <a class="navbar-brand" href="#">高雄探索</a>
