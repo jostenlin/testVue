@@ -8,8 +8,8 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   base:'/test/',
   plugins: [    
-    vue(),
-    AutoImport({
+    vue()
+    ,AutoImport({
       resolvers: [ElementPlusResolver()],
     }),
     Components({
